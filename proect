@@ -1,0 +1,83 @@
+<html>
+    <body style="font-family: sans-serif;">
+        <h1 style="font-size: 50px; text-align: center;">Турнир Grizzlies Cup</h1>
+        <table style="border-collapse:collapse; border:1px solid lightgrey; margin: 10px; text-align: center; font-size: 20px;">
+            <tr style="background-color:Olive; color:white; border:1px solid lightgrey">
+                <td>Оружие</td>
+                <td>Отряд 1</td>
+                <td>Отряд 2</td>
+                <td>Местоположение</td>
+                <td>Счёт</td>
+            </tr>
+            <tr style="border:1px solid lightgrey">
+                <td style="background-color:Olive; color:white; padding: 5px;">Винтовка Каркано</td>
+                <td style="background-color:burlywood; border:1px solid lightgrey; padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/soldier_0_1603274414.png" width="30px" height="30px"/>LEVON+SIREX</td>
+                <td><img src="https://mars.algoritmika.org/uploads/2020/10/bomb-detonation_0_1603274413.png" width="30px" height="30px"/>WEST+SATYRN</td>
+                <td style="background-color:burlywood; padding: 5px;">Станция Эмэральд</td>
+                <td style="padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/swords_0_1603274414.png" width="30px" height="30px"/>87:3</td>
+            </tr> 
+            <tr style="border:1px solid lightgrey; padding: 5px;">
+                <td style="background-color:Olive; color:white; padding: 5px;">Все</td>
+                <td style="background-color:burlywood; padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/world-war_0_1603274414.png" width="30px" height="30px"/>Grizzlies Band</td>
+                <td><img src="https://mars.algoritmika.org/uploads/2020/10/soldier_0_1603274414.png" width="30px" height="30px"/>Отряд Паши Буки</td>
+                <td style="background-color:burlywood; padding: 5px;">Дерево</td>
+                <td style="padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/swords_0_1603274414.png" width="30px" height="30px"/>278:19</td>
+            </tr>
+            <tr style="border:1px solid lightgrey; padding: 5px;">
+                <td style="background-color:Olive; color:white; padding: 5px;">Рукопашный бой</td>
+                <td style="background-color:burlywood; padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/meteorite_0_1603274414.png" width="30px" height="30px"/>UMKA</td>
+                <td><img src="https://mars.algoritmika.org/uploads/2020/10/world-war_0_1603274414.png" width="30px" height="30px"/>Весь HOWS</td>
+                <td style="background-color:burlywood; padding: 5px;">Водопад около Сан-Луис </td>
+                <td style="padding: 5px;"><img src="https://mars.algoritmika.org/uploads/2020/10/swords_0_1603274414.png" width="30px" height="30px"/>10000000 : 0</td>
+            </tr>
+        </table>
+    </body>
+</html>
+<html>
+    <h1>Таблица уроков </h1>
+    <h1>Расписание Уроков Grizzlies Band </h1>
+    <table style="border:1px solid blue;">
+        <tr>
+            <td style="border:1px solid blue;">Уроки</td>
+            <td style="border:1px solid blue;">Время</td>
+            <td style="border:1px solid blue;">Ученики</td>
+            <td style="border:1px solid blue;">Учитель</td>
+            <td style="border:1px solid blue;">Место</td>
+            
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Рукопашный бой </td>
+            <td style="border:1px solid blue;">когда на горе рак свиснет </td>
+            <td style="border:1px solid blue;">ALLWINNER</td>
+            <td style="border:1px solid blue;">UMKA</td>
+            <td style="border:1px solid blue;">Бедный Район в Сен-Дени</td>
+           
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Каркано+Обрезы</td>
+            <td style="border:1px solid blue;">В 2:30</td>
+            <td style="border:1px solid blue;">MAXIM+ERMAK</td>
+            <td style="border:1px solid blue;">WEST</td>
+            <td style="border:1px solid blue;">Горы Колтера</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Бег от Сомалийских Пиратов </td>
+            <td style="border:1px solid blue;">18:20</td>
+            <td style="border:1px solid blue;">Все</td>
+            <td style="border:1px solid blue;">ERMAK</td>
+            <td style="border:1px solid blue;">Занзибар</td>
+        </tr>
+    </table>
+    <html>
+    <h1>HOWS</h1>
+    <p>У нас можно бегать в защитке,оффрадаре и т.д. 
+    Вы так же можете научиться стрелять с разрывных!</p>
+    <a href>Подробнее об вступление в гей клуб (HOWS)</a href>
+    <p>Защитка  — лучшая вещь на все времена! Стань дауном!</p>
+    <img src="https://cs9.pikabu.ru/post_img/2020/01/25/11/1579978893141617500.jpg"=</img src>
+</html>
+
+</html>
+<html>
+<h20>WEST ЛУЧШИЙ ИГРОК!!!!!</h20>
+</html>
